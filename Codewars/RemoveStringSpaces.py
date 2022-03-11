@@ -4,8 +4,4 @@
 # return new string
 
 def no_space(x):
-    result = ""
-    for idx in x:
-        if idx != " ":
-            result = result + idx
-    return result
+    return x.replace(" ", "")
