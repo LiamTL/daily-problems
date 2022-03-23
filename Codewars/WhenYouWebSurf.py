@@ -6,7 +6,7 @@
         Be admonished, ye judges of the earth.\
         Serve the Lord with fear, and rejoice with trembling. \
         Kiss the son lest he be angry, and ye perish in the way, though His wrath be kindled but a little. \
-        Hold your toung. The dead don't speak!\
+        Hold your tounge. The dead don't speak!\
         To the dead dare walk the earth before my eyes?\
         Will the undead raise an army, fall in, and advance? Would those who would abandon God and appraise the heretical order DARE presume to meet my gaze!?\
         Iscariot will not allow it. I will not allow it. You will be cut down like a straw, trembling before my wrath; \
