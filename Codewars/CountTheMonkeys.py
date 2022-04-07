@@ -4,9 +4,7 @@
 
 def monkey_count(n):
     monk_count = []
-    for num in range(n):
-        if num == n:
-            break
+    for num in range(1, n + 1):
         monk_count.append(num)
         num += 1
     return monk_count
