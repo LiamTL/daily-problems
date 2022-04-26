@@ -1,10 +1,7 @@
 def stringy(size):
     res_str = ""
-    for num in range(1, size + 1):
-        if num % 2 == 0:
-            res_str += "0"
-        elif num % 2 != 0:    
-            res_str += "1"
+    for num in range(0, size):
+        res_str += "1" if num % 2 == 0 else "0"
     return res_str
         
 # Create a string to store 1's and 0's
