@@ -1,4 +1,4 @@
-def how_many_dalmatians(pups):
+def how_many_dalmations(pups):
     respond = ""
     dogs = ["Hardly any", "More than a handful!", "Woah that's a lot of dogs!", "101 DALMATIONS!!!"]
     if pups <= 10 and pups <= 12:
