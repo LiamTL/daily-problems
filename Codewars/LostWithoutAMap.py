@@ -1,8 +1,6 @@
 # Given an array of integers, return a new array with each value doubled.
 
 def maps(arr):
-    if len(arr) == 0:
-        return []
-    for num in range(len(arr)):
-        arr[num] = arr[num] * 2
+    for idx in range(len(arr)):
+        arr[idx] = arr[idx] * 2
     return arr
