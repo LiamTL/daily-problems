@@ -1,16 +1,12 @@
-def how_many_dalmations(pups):
-    respond = ""
-    dogs = ["Hardly any", "More than a handful!", "Woah that's a lot of dogs!", "101 DALMATIONS!!!"]
-    if pups <= 10 and pups <= 12:
-        respond = dogs[0]
-    
-    elif pups > 12 and pups <= 50:
-        respond = dogs[1]
-        
-    elif pups > 50 and pups < 101:
-        respond = dogs[2]
-    
+def how_many_dalmations(dogs):
+    response = ""
+    pups = ["Hardly any", "More than a handful!", "Woah that's a lot of dogs!", "101 DALMATIONS!!!"]
+    if dogs <= 10 and dogs <= 12:
+        response = pups[0]
+    elif dogs > 12 and dogs <= 50:
+        response = pups[1]
+    elif dogs > 50 and dogs < 101:
+        response = pups[2]
     else:
-        respond = dogs[3]
-    
-    return respond
+        response = pups[3]
+    return response
