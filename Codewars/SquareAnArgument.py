@@ -1,0 +1,1 @@
+square = lambda num: num ** 2
